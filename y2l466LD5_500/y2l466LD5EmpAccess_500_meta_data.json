@@ -1,0 +1,56 @@
+{
+    "target": null,
+    "classification": true,
+    "run_time": 500,
+    "run_id": "y2l466LD5",
+    "max_models": null,
+    "start_time": 1555387074.0489674,
+    "server_path": "C:\\Users\\hp\\Desktop\\Data Science Hyperparameter Project",
+    "data_path": "C:/Users/hp/Desktop/Data Science Hyperparameter Project/Employee_access_data.csv",
+    "test_path": null,
+    "scale": false,
+    "model_path": null,
+    "balance": false,
+    "balance_threshold": 0.2,
+    "project": null,
+    "end_time": 1555387614.5127614,
+    "run_path": "C:\\Users\\hp\\Desktop\\Data Science Hyperparameter Project\\y2l466LD5",
+    "nthreads": 1,
+    "min_mem_size": 2,
+    "analysis": 0,
+    "Shape_Rows*Cols": [
+        32769,
+        10
+    ],
+    "X": [
+        "RESOURCE",
+        "MGR_ID",
+        "ROLE_ROLLUP_1",
+        "ROLE_ROLLUP_2",
+        "ROLE_DEPTNAME",
+        "ROLE_TITLE",
+        "ROLE_FAMILY_DESC",
+        "ROLE_FAMILY",
+        "ROLE_CODE"
+    ],
+    "levels": [
+        [
+            "0",
+            "1"
+        ]
+    ],
+    "variables": {
+        "ACTION": "enum",
+        "RESOURCE": "int",
+        "MGR_ID": "int",
+        "ROLE_ROLLUP_1": "int",
+        "ROLE_ROLLUP_2": "int",
+        "ROLE_DEPTNAME": "int",
+        "ROLE_TITLE": "int",
+        "ROLE_FAMILY_DESC": "int",
+        "ROLE_FAMILY": "int",
+        "ROLE_CODE": "int"
+    },
+    "model_execution_time_sec": 528.6322100162506,
+    "Models_generated": 15
+}
