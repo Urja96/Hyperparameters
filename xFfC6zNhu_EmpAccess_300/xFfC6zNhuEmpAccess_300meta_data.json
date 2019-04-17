@@ -1,26 +1,22 @@
 {
-    "classification": true,
-    "run_time": 500,
-    "run_id": "bFTt3zVrD",
-    "max_models": null,
-    "start_time": 1555435503.3105361,
-    "server_path": "C:\\Users\\hp\\Desktop\\Data Science Hyperparameter Project",
-    "data_path": "C:/Users/hp/Desktop/Data Science Hyperparameter Project/Employee_access_data.csv",
-    "test_path": null,
-    "scale": false,
-    "model_path": null,
+    "project": "xFfC6zNhu_EmpAccess_300",
+    "run_time": 300,
+    "run_id": "xFfC6zNhu",
+    "start_time_sec": 1555465543.1386178,
+    "min_mem_size": 3,
     "balance": false,
     "balance_threshold": 0.2,
-    "project": null,
-    "end_time": 1555436047.4294796,
-    "run_path": "C:\\Users\\hp\\Desktop\\Data Science Hyperparameter Project\\bFTt3zVrD",
+    "max_models": null,
+    "scale": false,
+    "model_path": null,
+    "server_path": "C:\\Users\\hp\\Desktop\\Data Science Hyperparameter Project",
+    "data_path": "C:/Users/hp/Desktop/Data Science Hyperparameter Project/Employee_access_data.csv",
+    "run_path": "C:\\Users\\hp\\Desktop\\Data Science Hyperparameter Project\\xFfC6zNhu_EmpAccess_300",
     "nthreads": 1,
-    "min_mem_size": 2,
     "analysis": 0,
-    "Shape_Rows*Cols": [
-        32769,
-        10
-    ],
+    "end_time_sec": 1555465543.1386178,
+    "Problem_type": "Classification",
+    "Total Records": 327690,
     "Target": "ACTION",
     "X": [
         "RESOURCE",
@@ -51,6 +47,7 @@
         "ROLE_FAMILY": "int",
         "ROLE_CODE": "int"
     },
-    "model_execution_time_sec": 532.6334166526794,
-    "Models_generated": 18
+    "model_execution_time_sec": 315.46202969551086,
+    "Models_generated": 10,
+    "end_time": 1555465891.2733471
 }
